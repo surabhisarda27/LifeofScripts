@@ -53,10 +53,12 @@ Resource utilization patterns
 🌐 Multi-library / University-level system integration
 
 👥 Team
-Roll No	Name	Role
-2410030059	G. Jahnavi	Project Lead
-2410030001	Harshitha Readdy	Machine Learning Engineer
-2410030122	Rishika T	Backend Developer
-2410030123	Surabhi Sarda	Frontend Developer
+| Roll No    | Name             | Role                      |
+| ---------- | ---------------- | ------------------------- |
+| 2410030059 | G. Jahnavi       | Project Lead              |
+| 2410030001 | Harshitha Readdy | Machine Learning Engineer |
+| 2410030122 | Rishika T        | Backend Developer         |
+| 2410030123 | Surabhi Sarda    | Frontend Developer        |
+
 
 ⭐ Life of Scripts – Smarter Libraries, Smarter Learning!
