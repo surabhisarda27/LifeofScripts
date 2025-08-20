@@ -1,6 +1,4 @@
-📚 Life of Scripts
-
-Smart AI-Powered Library Management System
+📚 Life of Scripts – Smart AI-Powered Library Management System
 
 🚀 Life of Scripts is a web-based Smart Library Management System designed to simplify and modernize the way students, faculty, and librarians interact with books and resources. By using Artificial Intelligence (AI) and Machine Learning (ML), it enhances book search, automates management tasks, and provides personalized recommendations—making libraries smarter, faster, and more user-friendly.
 
